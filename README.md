@@ -15,9 +15,29 @@ This project gave me good practice that I know will be more than useful when it 
 
 ## Deployed Page
 
+![frvnlol github io_challenge-3-password-gen_](https://github.com/frvnlol/challenge-3-password-gen/assets/131290908/ba3e1e60-c7e3-4ce5-8f04-6c15be4b2260)
+
+Visit my deployed page [here](https://frvnlol.github.io/challenge-3-password-gen/)
+
+
+## Installation
+
+N/A
 
 ## Credits 
 
-Source I used to make sure prompt for password length only accepted numbers: 
+Sources I used to make sure prompt for password length only accepted numbers: 
 [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt#try_it)
+
 [isNaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
+
+Website that helped me better understand for loops and if else statements:
+For loops [link](https://www.freecodecamp.org/news/javascript-for-loops/)
+
+If else statements [link](https://www.w3schools.com/jsref/jsref_if.asp#:~:text=The%20if%2Felse%20statement%20executes,actions%20based%20on%20different%20conditions.)
+
+
+
+## License
+
+Please refer to LICENSE in the repository.
