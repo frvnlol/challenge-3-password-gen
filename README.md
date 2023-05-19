@@ -4,7 +4,7 @@
 
 This is a random password generator created using Javascript. 
 
-Upon vising the website, you will be prompted to choose your password criteria. That being whether you want uppercase letters, lowercase letters, special characters, and/ or numbers.
+Upon vising the website, you will be prompted to choose your password criteria. That being whether you want uppercase letters, lowercase letters, special characters, and/ or numbers. After choosing your desired prompts, the website will generate you a completely random password that includes the prompts that you chose.
 
 Through this project I bettered my knowledge when it comes to the entirety of JavaScript. For example: 
 1: The importance of utilizing global and local scopes.
