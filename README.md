@@ -27,11 +27,13 @@ N/A
 ## Credits 
 
 Sources I used to make sure prompt for password length only accepted numbers: 
+
 [parseInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt#try_it)
 
 [isNaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
 
 Website that helped me better understand for loops and if else statements:
+
 For loops [link](https://www.freecodecamp.org/news/javascript-for-loops/)
 
 If else statements [link](https://www.w3schools.com/jsref/jsref_if.asp#:~:text=The%20if%2Felse%20statement%20executes,actions%20based%20on%20different%20conditions.)
